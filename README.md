@@ -1,2 +1,8 @@
-# conversor-bases-arquitectura
-Herramienta desarrollada en Python y wxPython que realiza conversiones entre sistemas decimales, binarios, hexadecimales y octales, validando la lógica de arquitectura de computadoras
+# Características:
+Lógica de Sistemas: Realiza conversiones entre Decimal, Binario, Hexadecimal y Octal.
+
+Arquitectura POO: Estructurado mediante una clase conversora independiente de la interfaz.
+
+Interfaz Dinámica: Uso de wx.ComboBox para que el usuario elija las bases de origen y destino.
+
+Formateo Automático: Convierte los resultados a mayúsculas para bases hexadecimales.
